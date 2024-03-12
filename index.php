@@ -3,8 +3,6 @@
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
-echo 'qwerty';
-die;
 define('LARAVEL_START', microtime(true));
 
 /*
